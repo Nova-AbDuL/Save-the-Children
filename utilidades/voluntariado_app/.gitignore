@@ -1,0 +1,15 @@
+# Entorno virtual y archivos de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Configuración local (contiene la contraseña de MySQL): NO subir
+src/config.py
+.env
+
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
